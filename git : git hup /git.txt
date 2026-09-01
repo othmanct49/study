@@ -1,0 +1,105 @@
+           //git init 
+
+hadi katncha2 milfat lconfigiration ta3 repo llfolder ta3k 
+kayhya2 lfolder ta3k llanak ttbe9 3lih command ta3 get 
+        
+           //git config user.name "othmane hassouni" 
+
+hadi kat3rref biha smitek awla luser name ta3k flproject li khdam fih 
+
+           //git config user.email "othmane2hassouni@gmail.com"
+
+hadi kat3rref biha email ta3k flproject li khdam fih 
+
+
+bnsba luser wlemail hya m3lomat taw3k katdkhlhom bach ay wahed dkhl ghay3ref chkon dar dak edit 
+
+t9der tkhliha gloobal y3ni ay project ywelli yakhd user w email li dkhltihom lmra lwla b --global :
+git config --global user.name "othmane hassouni"
+git config --global user.email "othmane2hassouni@gmail.com"
+
+           // git add git.txt
+
+git add katjhz biha lfiles li ghatdir lihom mn b3ed commit 
+b7la kat9ol khod had lfiles wjdhom lya rah ghandir lihom commit wkatfid 7ta fthddid lfiles bdbt li baghi tdir 
+lihom commit 
+wfi 7alat bghiti tdir add lga3 lfiles li kaynin flfoder ta3k katzid 9damha  " . " :
+   git add .              (darori space 3ad dir ".")
+          
+
+         // git commit -m "add git.txt"
+
+ git commit katdir save ldakchi li drti lih add ka version ta3 t3dilat t9der trje3 lih we9t mabghiti 
+ -m "add git.txt " hadi katkhli biha message wset " " bach t3ref edit ta3ach wtrje lih 
+
+        // git status 
+ 
+ hadi kat3tik l7ala ta3  lproject ta3k f git 
+
+        // get log -v
+
+hadi kat3red lik historique ta3 t3dilat ta3ek 
+kat3tik commit w commit hash li hwa ra9m awla id ta3 comit wuser uemail tar li dar comit w taw9it w messge 
+li derti m3a commit mital :
+  commit 16eaa857d5f45260032ce2097e43f3314754f6cc (HEAD -> main)
+Author: Yahya Nabil ‹yahya.asdfas. com>
+Date:
+Tue Feb 6 20:38:08 2024 +0200
+add git.txt
+ 
+  16eaa857d5f45260032ce2097e43f3314754f6cc hada hwa commit hash 
+  (HEAD -> main) hadi kat3ni bli hadi hya version lkhra li 7na fiha 
+  Author: Yahya Nabil ‹yahya.asdfas. com>    m3lomat ta3 li dar commit 
+  Date:
+  Tue Feb 6 20:38:08 2024 +0200 lw9t li tdar fih commit
+  add git.txt  message ta3 commit 
+
+      // get checkout 16eaa857d5f45260032ce2097e43f3314754f6cc
+
+hadi katcheki (za3ma kattel 3liha ) biha wahed l commit li kat7ddeha b lcommit hash   katktbha 9dam checkout kifma f  // li lfo9 
+
+      // get checkout main
+
+hadi katwrik akhir version li nta 3liha fdik l7da 
+
+     //////// branch
+
+      branch hwa far3 katzido l repo ta3ek bach t7fd fih version ta3 t3dilat 3la files ba9i fmar7alat ttwiir wmazal mabaghich tzidha lversion 
+      li f main 
+     
+          // get checkout -b "c"  
+
+  checkout -b hadi kat9ad  lik lbranch jdid 
+  "c" katsmi biha lbranch ta3k li 9aditi wkatktbha nichan b3ed get checkout 
+  b3ed maktdir entr kattle3 " Switched to a new branch 'c' " wli kat3ni bli mchina lbranch jdida whya ' c ' 
+  
+  bach tchof version li 3ndk katdir git checkout 
+  ghay3tek t3dilat w akhir version fl main ghaykon mktob 3liha  (main)
+  
+  w version li fiha nta diksa3at ghatl9a fiha (head-> c ) 
+   
+       // get checkout main 
+ hadi ghatrje3 biha ll main wtkhrej mn branch c 
+ wghaytle3 lik Switched to branch 'main' 
+
+
+       // git checkout c 
+
+bach trje3 llbranch li knti fih 
+
+////// ila bghiti tmchi lchi branch wla trje3 ll main dir ghr smito b3d git checkout 
+
+//////////////////////// merge
+kat3ni damj whya li kandmjo biha lbranch li zdna m3a l main 
+        //get checkout main           -> bach tdir merej lbranch khas darorri tkon flmain li ghatdir merge llbranch fih 
+        //get merge c                 -> hadi bach ndiro merge llbranch li bghiti b3d merge 
+        
+
+
+
+
+
+
+ 
+  
+ 
