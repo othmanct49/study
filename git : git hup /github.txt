@@ -1,0 +1,45 @@
+         //// git remote add origin https://github.com/user/project.name.get
+
+hadi bach trbet local repo b cloude repo ta3k li fgithub  -> git remote add origin  
+wmn b3dha kat7t lein tar repository ta3k                  -> https://github.com/user/project.name.get
+
+
+
+       ///// git branch -M main
+
+hadi katdir rename ll branch li wa9fin fih wkatwli smito main bdal master wkat7ddo 3la anaho lbranch ra2isi 
+
+       //// git push -u origin main 
+
+ hadi katrf3 biha lfile li flbranch main lrepository  
+
+ * push hya li kanrf3o biha 
+ * fach kat3dl 3la chi file wbghitih ytrfe3 lgit katdir " git push "
+ * bach tdir push lbranch okher dkhel llbranch b checkout  wdir lih git push -u origin wktb smiyet lbranch b3dha 
+
+      /// git push --all origin 
+
+hadi bach tdir push lkar lbranch li flproject 
+
+      // git fetch
+
+hadi kansta3mloha bach n3rfo wash kayn chi t3dil mrfo3 f github wma3ndnach local 
+
+     // git pull 
+
+hadi fi 7alat ma ila bghiti tjib ta3dil 3ndk fgithub wtkhlih local 
+
+*katdir fetch bach tf7s t3dilat li fgithub wtwjdhom l pull bach t7thom 3ndek local 
+
+    // git clone 
+
+fi 7alat ma ila mse7ti project kamel awla bghiti takhde noskha local mn chi project 9ado chi hd 
+katfte7 terminal flfoder li bghiti t7t fih lproject wkatdir :
+git clone https://github.com/user/project.name.get 
+                     
+                        ^
+                        |
+            link ta3 repository li bghiti takhed mno noskha local 
+            
+          
+                    
