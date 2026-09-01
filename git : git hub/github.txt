@@ -41,5 +41,10 @@ git clone https://github.com/user/project.name.get
                         |
             link ta3 repository li bghiti takhed mno noskha local 
             
+
+* -M  (git branch -M main )     -> M kat3ni bdel smya ta3 lbranch l7alya fhad l7ala l main 
+* -m (git commit -m "message")  -> -m hna kat3ni dir lya message lhad commit 
+* -u (git push -u origin main ) -> hna kat3rref lina lbranch lighandiro 3lih push wkat7fd lblasa li ghatdir fiha push lmra jaya
+
           
                     
